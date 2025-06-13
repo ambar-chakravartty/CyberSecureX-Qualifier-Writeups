@@ -7,7 +7,7 @@ The given hash is Cisco Type 9 hash identifiable by the \$9\$  at the beginning 
 
 On searching online one can find this tool:  https://www.m00nie.com/juniper-type-9-password-tool/
 
-![[Pasted image 20250613102857.png]]
+![image](Pasted%20image%2020250613102857.png)
 
 Flag:
 

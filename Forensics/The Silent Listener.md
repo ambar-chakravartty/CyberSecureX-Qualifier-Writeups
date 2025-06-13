@@ -6,12 +6,12 @@ Data.pcap
 
 One of the packet contains a .zip file in hex
 
-![[Pasted image 20250613094542.png]]
+![image](Pasted%20image%2020250613094542.png)
 
 When trying the to unzip, a password is required. Use john / hashcat to bruteforce the password.
 The password comes out to be letmein
 
-![[Pasted image 20250613193942.png]]
+![image](Pasted%20image%2020250613193942.png)
 
 Flag
 `flag{http_exfiltration_detected}`

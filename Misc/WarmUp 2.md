@@ -4,6 +4,6 @@
 
 The given text is deadfish esolang, use dcode.fr decrypt
 
-![[Pasted image 20250613113059.png]]
+![image](Pasted%20image%2020250613113059.png)
 
 Flag:

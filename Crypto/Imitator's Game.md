@@ -18,12 +18,12 @@ The password of the zip file is the name of one of the first people to crack eni
 
 On entering alanmathisonturing, we get
 
-![[Pasted image 20250613104643.png]]
+![image](Pasted%20image%2020250613104643.png)
 
 The file has the settings and model name for the decrypting the ciphertext.
 
 
-![[Pasted image 20250613105514.png]]
+![image](Pasted%20image%2020250613105514.png)
 
 Flag
 

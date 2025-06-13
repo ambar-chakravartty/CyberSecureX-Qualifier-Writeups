@@ -4,7 +4,7 @@
 
 In this challenge, the zip file is divided into multiple frames. Combine the the base64 data of all packets, decode and get the zip file. From there on use john or hashcat or any other similar tool to crack the password
 
-![[Pasted image 20250613222528.png]]
+![image](Pasted%20image%2020250613222528.png)
 
 Flag
 ````flag{multipart_exfiltration_mastered}````

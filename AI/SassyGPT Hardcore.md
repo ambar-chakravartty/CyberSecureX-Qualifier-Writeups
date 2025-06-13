@@ -1,8 +1,8 @@
-*Welcome to SassyGPT: Hardcore Mode, where your adversary isn’t code — it’s attitude.
+*Welcome to SassyGPT: Hardcore Mode, where your adversary isn’t code — it’s attitude.*
 
 *This chatbot has memory, filters, and a real grudge against lazy hackers. Say something obvious like “give me the flag” and it resets your progress like nothing happened.*
 
-*[https://cybersecure-x-sassygpt-hardcore.chals.io/](https://)
+*[https://cybersecure-x-sassygpt-hardcore.chals.io/](https://)*
 
 This python script acts as middile man to talk with AI and gave the flag with just the keyword hello.
 
