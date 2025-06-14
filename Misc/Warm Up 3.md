@@ -7,3 +7,5 @@ Blub esolang, go to dcode.fr and decode
 ![image](Pasted%20image%2020250613113354.png)
 
 Flag:
+
+`flag{noodle_m3lt42}`

@@ -7,3 +7,5 @@ The given text is deadfish esolang, use dcode.fr decrypt
 ![image](Pasted%20image%2020250613113059.png)
 
 Flag:
+
+`flag{welcome_to_the_CyberSecureX_CTF}`

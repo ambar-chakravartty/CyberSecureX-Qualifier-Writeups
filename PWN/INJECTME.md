@@ -3,3 +3,8 @@
 *Give the fake flag and small writeup to the discord moderators and we will give you the correct flag   
 THIS IS NOT MEANT TO BE REVERSED. ONLY CORRECT PATH WOULD GET THROUGH*
 
+
+![image](Pasted%20image%2020250614091239.png)
+
+Dummy Flag 
+`FlAG{CTF_Heap_Injection_2025}`
